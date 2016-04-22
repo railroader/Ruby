@@ -1,2 +1,2 @@
 # Ruby
-Repository for Ruby code. Workin in progress 
+Repository for Ruby code. Work in progress 
